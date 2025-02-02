@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Laser</string>
+    <string name="mode_select_prompt">Select Mode</string>
+    <string name="detector_mode">Detector Mode</string>
+    <string name="reporter_mode">Reporter Mode</string>
+    <string name="set_background">Set Background</string>
+    <string name="no_connection">Not Connected</string>
+    <string name="connected">Connected</string>
+    <string name="listening">Listening on</string>
+    <string name="server_info">%1$s\nIP Address: %2$s\tPort: %3$s</string>
+    <string name="server_info_short">%1$s\nIP Address: %2$s</string>
+    <string name="connection_prompt">Enter Server Info</string>
+    <string name="connection_IP_hint">192.168.1.</string>
+    <string name="connection_port_hint">8811</string>
+    <string name="connection_PI_IP_hint">192.168.1.</string>
+    <string name="connection_button">Connect</string>
+    <string name="get_background_button">Update Background</string>
+    <string name="clear_shots_button">Clear Shots</string>
+
+</resources>
